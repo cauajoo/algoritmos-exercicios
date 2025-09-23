@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.body {
+    background-color: #d7bb90;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.link {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 0 10px 0 10px;
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.titulo{
+    color: #D97706;
+    font-family: 'Bebas Neue', cursive;
+    background-color: #7C2D12;
+    font-size: 50px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+    padding: 10px 10px 0px 10px;
+
+}
+.texto {
+    color: #ffffff;
+    background-color: #4A1D1D;
+    border-radius: 20px;
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+    padding: 10px;
+
+}
+.grid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0.625rem;
+    padding: 0.625rem;
+    padding-bottom: 7rem;
+}
+.elementos {
+    width: 30rem;
+    height: 30rem;
+    background-color: #7C2D12;
+    border-radius: 1.5rem;
+    padding: 0.1rem;
+}
+.navegacao{
+    width: 100%;
+    background-color: #7C2D12;
+    padding: 10px;
+
+}
+
+.rodape {
+    width: 100%;
+    background-color: #7C2D12;
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff; 
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+}

@@ -1,0 +1,49 @@
+.corpo {
+    background-color: rgb(216, 182, 253);
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.titulo {
+    background-color: rgb(147, 64, 224);
+    margin: 20px;
+    border-radius: 2rem;
+    padding: 10px 50px 10px 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.rodape {
+    width: 100%;
+    background-color: rgb(147, 64, 224);
+    color: #ffffff;
+    padding: 20px;
+    bottom: 0;
+    margin: 0;
+    position: fixed;
+}
+
+.texto {
+    background-color: rgb(147, 64, 224);
+    margin: 20px;
+    padding: 10px 50px 10px 50px;
+    color: #ffffff;
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+}
+.lista {
+    background-color: rgb(147, 64, 224);
+    margin: 20px;
+    padding: 10px 50px 10px 50px;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    list-style-type: square;
+}

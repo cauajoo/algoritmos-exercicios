@@ -1,0 +1,19 @@
+Olá, professor,
+
+Quero compartilhar algumas considerações sobre o meu código. 
+
+Procurei seguir todas as exigências que o senhor pediu, mas também quis deixar o site com um estilo próprio.
+
+Sobre a parte de exibir códigos na páginna Códigos, usei a tag <pre>. 
+
+Não me lembro se vimos isso em aula, pesquisei a tag no Google para conseguir deixar os códigos bem organizados. 
+
+Alguns textos do site foram gerados por IA, mas todos os códigos fiz sozinho, sem ajuda.
+
+Uma coisa que não consegui resolver foi o link do meu LinkedIn. 
+
+Coloquei o link, mas ele não está levando para a página e não consegui descobrir o motivo, mesmo tentando algumas vezes.
+
+Obrigado pela compreensão!
+
+Cauã João de Oliveira.

@@ -1,0 +1,69 @@
+body {
+    background-color: #4a8dfa;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+nav {
+    width: 100%;
+    padding: 10px 0px 20px 0px;
+    background-color: #033d9b;
+    position: fixed;
+    top: 0;
+}
+
+.links {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 0 15px 0 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #033d9b;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    margin: auto auto 50px auto;
+}
+
+.conteudo {
+    width: 80%;
+    margin: 80px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #033d9b;
+    border-radius: 20px;
+}
+
+.conteudo2 {
+    width: 80%;
+    margin: 50px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #033d9b;
+    border-radius: 20px;
+}
+
+.rodape {
+    width: 100%;
+    background-color: #033d9b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+}
+
+.cmd {
+    background-color: #000000;
+    color: #00FF00;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    border-radius: 10px;
+}
